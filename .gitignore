@@ -1,0 +1,19 @@
+﻿# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+target/
+build/
+*.apk
+*.aab
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Database
+*.db
